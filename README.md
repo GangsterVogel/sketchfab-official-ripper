@@ -33,3 +33,6 @@ Fixes for the ripper: **(if not work)**
 ***BACKUP FILES***
 
 More Comming soon
+
+
+**NO PROBLEM** https://discord.gg/WjRV3M8E discord official
