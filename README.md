@@ -22,9 +22,9 @@ Fixes for the ripper: **(if not work)**
 
 ***Right click paste (DO NOT CTRL+V)***
 
-***Read the readme file
+***Read the readme file***
 
-***Latest Version 1.18b2
+***Latest Version 1.18b2***
 
 ***DONT drop and drag files from .7z "Extract Here" option***
 
