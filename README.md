@@ -16,13 +16,20 @@ https://bit.ly/3ywpXyW
 
 Fixes for the ripper: **(if not work)**
 
-***Disable antivirus then redownload files
-Search in Windows Defender in "protection history" to allow threats
-Right click paste (DO NOT CTRL+V)
-Read the readme file
-Latest Version 1.18b2
-DONT drop and drag files from .7z "Extract Here" option
-Shorten links before /embed?api_version=
-BACKUP FILES***
+***Disable antivirus then redownload files***
+
+***Search in Windows Defender in "protection history" to allow threats***
+
+***Right click paste (DO NOT CTRL+V)***
+
+***Read the readme file
+
+***Latest Version 1.18b2
+
+***DONT drop and drag files from .7z "Extract Here" option***
+
+***Shorten links before /embed?api_version=***
+
+***BACKUP FILES***
 
 More Comming soon
