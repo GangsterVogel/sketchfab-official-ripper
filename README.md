@@ -10,7 +10,7 @@ Download for the official ripper:
 
 **-TRUST ABLE LINK-**
 
-https://bit.ly/3ywpXyW
+**PATCHED**
 
 **-TRUST ABLE LINK-**
 
